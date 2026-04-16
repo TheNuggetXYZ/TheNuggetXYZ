@@ -1,7 +1,9 @@
 ## About me:
-I enjoy game development and programming overall. My IT journey began with making small games in Unity and led me all the way here
+I enjoy game development and programming overall. My IT journey began with making small games in Unity and led me all the way here:
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,py,md"></img><br>
+<div align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,py,md"></img></div>
+
+___
 
 ### What I know:
 
@@ -13,7 +15,8 @@ I enjoy game development and programming overall. My IT journey began with makin
   <li>Not a big fan of web dev, but I did learn HTML and CSS and I can make good looking simple pages. I strive to learn JS in the future.</li>
 </ul>
 
-<br>
-I used to code on Visual Studio, but I had to move to JetBrains when I switched to Linux.<br>
-I mostly use JetBrains, because they support Linux and I always have a seamless experience on all their IDE's.<br><br>
-<img src="https://skillicons.dev/icons?i=unity,rider,webstorm,idea,pycharm,visualstudio,blender"></img>
+___
+
+I used to code on Visual Studio, but I had to move to JetBrains when I switched to Linux. I always have a seamless experience on all their IDE's.<br><br>
+<div align="center"><img src="https://skillicons.dev/icons?i=unity,rider,webstorm,idea,pycharm,visualstudio,blender"></img></div>
+
