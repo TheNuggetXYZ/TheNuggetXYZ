@@ -8,11 +8,11 @@ ___
 ### What I know:
 
 <ul>
-  <li>I mostly code in C# as it is my favorite language and it is used in <a href="https://unity.com/">Unity</a> which I have a lot of experience with.</li>
-  <li>I put my C# skills to test while developing apps with <a href="https://avaloniaui.net/">Avalonia</a>.</li>
-  <li>While making a space shooter in <a href="https://unity.com/">Unity</a> I learned the art of making beautiful shaders with HLSL.</li>
-  <li>I am also a bit interested in Minecraft modding so I know some Java.</li>
-  <li>Not a big fan of web dev, but I did learn HTML and CSS and I can make good looking simple pages. I strive to learn JS in the future.</li>
+  <li>I mainly code in C# as it is my favorite language and it is used in <a href="https://unity.com/">Unity</a> which I have tons of experience with.</li>
+  <li>I put my C# skills to test while developing applications with <a href="https://avaloniaui.net/">Avalonia</a> and learned axaml, dependency injection, factory pattern...</li>
+  <li>Through game development, I learned the art of creating beautiful shaders with HLSL.</li>
+  <li>I am also a bit interested in Minecraft modding which lead me to look into Java.</li>
+  <li>I know HTML and CSS and I am capable of making good looking simple pages. I strive to learn JS in the future.</li>
 </ul>
 
 ___
