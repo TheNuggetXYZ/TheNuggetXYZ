@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About me:
-I'm a .NET developer specializing in creating high-performance <a href="https://avaloniaui.net/">Avalonia</a> applications and fun, visually attractive <a href="https://unity.com/">Unity</a> games.
+I'm a .NET developer with 5+ years of experience in building fun, visually attractive <a href="https://unity.com/">Unity</a> games, while also specializing in high-performance <a href="https://avaloniaui.net/">Avalonia</a> applications.
 
 ---
 
