@@ -5,10 +5,10 @@ I'm a .NET developer specializing in creating high-performance <a href="https://
 
 ---
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,py,md"></img>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,py,md" alt="cs,dotnet,java,html,css,py,md"></img>
 
 ---
 
-<img src="https://skillicons.dev/icons?i=unity,rider,webstorm,idea,pycharm,visualstudio,blender"></img>
+<img src="https://skillicons.dev/icons?i=unity,rider,webstorm,idea,pycharm,visualstudio,blender" alt="unity,rider,webstorm,idea,pycharm,visualstudio,blender"></img>
 
 </div>
